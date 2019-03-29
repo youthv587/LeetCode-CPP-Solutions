@@ -1,6 +1,6 @@
 {
     "username": "JerryMax",
     "password": "WOTO521HITMAX",
-    "language": ["cpp", "java", "c", "python3"],
+    "language": ["cpp", "java", "c", "python3", "python"],
     "outputDir": "../solutions"
 }
